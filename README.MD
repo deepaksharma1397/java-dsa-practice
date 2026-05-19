@@ -1,6 +1,6 @@
 # Java DSA Journey
 
-This repository contains my Java + DSA practice following Love Babbar DSA Playlist.
+This repository contains my Java and Data Structures & Algorithms practice while following the Love Babbar DSA Playlist.
 
 ## Topics Covered
 
@@ -13,4 +13,4 @@ This repository contains my Java + DSA practice following Love Babbar DSA Playli
 
 ## Goal
 
-Placement preparation and problem-solving consistency.
+Placement preparation and improving problem-solving skills.
