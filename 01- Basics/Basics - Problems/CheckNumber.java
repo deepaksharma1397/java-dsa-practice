@@ -11,5 +11,7 @@ public class CheckNumber {
         } else {
             System.out.println("The number is zero.");
         }
+        sc.close();
     }
+    
 }

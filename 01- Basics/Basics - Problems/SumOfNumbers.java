@@ -12,5 +12,7 @@ public class SumOfNumbers {
             sum += number;
         }
         System.out.println("The sum of " + n + " numbers is: " + sum);
+        sc.close();
     }
+    
 }

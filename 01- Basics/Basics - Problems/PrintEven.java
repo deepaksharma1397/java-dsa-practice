@@ -10,5 +10,7 @@ public class PrintEven {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
+    
 }
