@@ -21,6 +21,7 @@ public class MaxofThree {
          int c = sc.nextInt();
 
          System.out.println(max(a, b, c));
+         sc.close();
     }
     
 }
