@@ -13,7 +13,6 @@ class BankAccount {
         balance = balance - amount;
     }
 }
-
 class SavingsAccount extends BankAccount {
     double interestRate = 5;
 
